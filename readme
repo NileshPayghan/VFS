@@ -1,0 +1,5 @@
+Use Common file model framework to create VFS.
+CFM provides reading, creating links, and sync.
+
+Page Chache
+Page Writeback
